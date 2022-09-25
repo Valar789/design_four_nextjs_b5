@@ -395,13 +395,13 @@ h6 {
 }
 
 .slide1{
-  background-image: url(../public/img/slide/slide-1.jpg);
+  background-image: url("../public/img/slide/slide-1.jpg");
 }
 .slide2{
- background-image: url(../public/img/slide/slide-2.jpg);
+ background-image: url("../public/img/slide/slide-2.jpg");
 }
 .slide3{
-  background-image: url(../public/img/slide/slide-3.jpg);
+  background-image: url("../public/img/slide/slide-3.jpg");
 }
 
 #hero .carousel-item {
@@ -1020,7 +1020,7 @@ section {
 # Events
 --------------------------------------------------------------*/
 .events {
-  background: url(../public/img/events-bg.jpg) center center no-repeat;
+  background: url("../public/img/events-bg.jpg") center center no-repeat;
   background-size: cover;
   position: relative;
 }
